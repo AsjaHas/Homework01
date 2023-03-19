@@ -14,6 +14,7 @@
 11. Od tog trenutka mozete da pokrecete projekat sa onim malim play dugmetom
 
 Zadaca:
+
 1. Napravit cete readme.md file koji sadrzi zadatke koje sam vam zadao. Ovo mozete preko intelij ne terminala.
 2. readme.md fajl se treba nalaziti u samom folderu zadaca1
 3. Kada zavrsite sve uradite
