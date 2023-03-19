@@ -5,13 +5,15 @@ public class Main {
 
         // 5.Deklarisati varijable za: Ime i prezime, prvo slovo imena, godina rodjenja, broj 100 000 000 000, broj 42.001
 
+        /*
         String firstName = "John";
         String lastName = "Doe";
         char firstLetterOfName = firstName.charAt(0);
-        // System.out.println("First letter of first name is :" + firstLetterOfName);
+        System.out.println("First letter of first name is :" + firstLetterOfName);
         int birthYear = 1993;
         long trillion = 100_000_000_000L;
         double decimalNumber = 42.001;
+         */
 
 
         // 6.Isprintate vase ime koristeci samo brojeve  koji se pretvore u char-ove.
